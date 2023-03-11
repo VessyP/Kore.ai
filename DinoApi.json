@@ -1,0 +1,26 @@
+[
+  {
+    "account_id" : "1",
+    "account_name":"Peter",
+    "account_type" : "Savings",
+    "balance" : "4846"
+  },
+    {
+    "account_id" : "2",
+    "account_name":"Shelly",
+    "account_type" : "Checking",
+    "balance" : "2820"
+  },
+    {
+    "account_id" : "3",
+    "account_name":"Ankita",
+    "account_type" : "Savings",
+    "balance" : "1360"
+  },
+    {
+    "account_id" : "4",
+    "account_name":"Shelly",
+    "account_type" : "Checking",
+    "balance" : "2000"
+  }
+]
